@@ -56,7 +56,7 @@ packages:
       name: bottom_bar_matu
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "1.2.2"
+    version: "1.3.0"
   characters:
     dependency: transitive
     description:
