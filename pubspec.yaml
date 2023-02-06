@@ -8,7 +8,7 @@ environment:
   flutter: 3.3.8
 
 dependencies:
-  bloc: ^8.1.0
+  bloc: ^8.1.1
   bottom_bar_matu: ^1.2.2
   flutter:
     sdk: flutter
